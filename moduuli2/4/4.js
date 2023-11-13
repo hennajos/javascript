@@ -2,10 +2,14 @@
 
 const numerot = [];
 
-let arvo = +prompt("Anna luku, 0 lopettaa:");
+let arvo = prompt("Anna luku, 0 lopettaa:");
 
-while (arvo != 0) {
+while (arvo !== 0) {
   numerot.push(arvo);
-  if (arvo === 1) {}
-  let arvo = +prompt("Anna luku, 0 lopettaa:");
+  arvo = +prompt("Anna luku, 0 lopettaa:");
 }
+
+numerot.sort((a,b) => a-b);
+numerot.reverse();
+
+console.log(numerot);
