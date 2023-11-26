@@ -1,8 +1,8 @@
 'use strict';
 const picArray = [
   {
-    title: 'Title 1',
-    caption: 'Caption 1',
+    title: 'Title 1-4',
+    caption: 'Caption 1-4',
     description:
       'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sodales enim eget leo condimentum vulputate. Sed lacinia consectetur fermentum. Vestibulum lobortis purus id nisi mattis posuere. Praesent sagittis justo quis nibh ullamcorper, eget elementum lorem consectetur. Pellentesque eu consequat justo, eu sodales eros.',
     image: {
@@ -51,8 +51,8 @@ const picArray = [
     },
   },
   {
-    title: 'Title 6',
-    caption: 'Caption 6',
+    title: 'Title 5',
+    caption: 'Caption 5',
     description:
       'Sed vel velit ante. Aenean quis viverra magna. Praesent eget cursus urna. Ut rhoncus interdum dolor non tincidunt. Sed vehicula consequat facilisis. Pellentesque pulvinar sem nisl, ac vestibulum erat rhoncus id. Phasellus imperdiet nunc tincidunt molestie vestibulum. Donec dictum suscipit nibh.',
     image: {
@@ -61,8 +61,8 @@ const picArray = [
     },
   },
   {
-    title: 'Title 7',
-    caption: 'Caption 7',
+    title: 'Title 5',
+    caption: 'Caption 5',
     description:
       'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sodales enim eget leo condimentum vulputate. Sed lacinia consectetur fermentum. Vestibulum lobortis purus id nisi mattis posuere. Praesent sagittis justo quis nibh ullamcorper, eget elementum lorem consectetur. Pellentesque eu consequat justo, eu sodales eros.',
     image: {
